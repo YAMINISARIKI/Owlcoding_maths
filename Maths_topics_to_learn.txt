@@ -1,0 +1,22 @@
+1.Number Theory:
+-> Prime
+-> Prime factorization
+-> seive of erathonesis
+-> segmented seive
+-> euclidean algorithm for gcd
+-> finding number of divisors of N
+-> Binary exponentiation
+-> Gold bach's conjecture
+-> intro of modulo inverse and how to calculate it
+-> calculating binomial coefficient
+
+2. Advanced
+-> Extended Euclidien algorithm
+-> linear diphantine equation
+-> matrix exponentiation
+-> fibonacci number of O(log n)
+-> chinese remainder theorem
+-> euler totient function
+-> sum of divisors
+-> pollard p-1 method
+-> pollard Rho algorithm
